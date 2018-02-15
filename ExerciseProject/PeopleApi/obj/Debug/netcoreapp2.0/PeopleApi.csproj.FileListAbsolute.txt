@@ -1,0 +1,11 @@
+D:\VS2017_Projects\ExerciseProject\PeopleApi\bin\Debug\netcoreapp2.0\PeopleApi.deps.json
+D:\VS2017_Projects\ExerciseProject\PeopleApi\bin\Debug\netcoreapp2.0\PeopleApi.runtimeconfig.json
+D:\VS2017_Projects\ExerciseProject\PeopleApi\bin\Debug\netcoreapp2.0\PeopleApi.runtimeconfig.dev.json
+D:\VS2017_Projects\ExerciseProject\PeopleApi\bin\Debug\netcoreapp2.0\PeopleApi.dll
+D:\VS2017_Projects\ExerciseProject\PeopleApi\obj\Debug\netcoreapp2.0\PeopleApi.csprojResolveAssemblyReference.cache
+D:\VS2017_Projects\ExerciseProject\PeopleApi\obj\Debug\netcoreapp2.0\PeopleApi.csproj.CoreCompileInputs.cache
+D:\VS2017_Projects\ExerciseProject\PeopleApi\obj\Debug\netcoreapp2.0\PeopleApi.AssemblyInfoInputs.cache
+D:\VS2017_Projects\ExerciseProject\PeopleApi\obj\Debug\netcoreapp2.0\PeopleApi.AssemblyInfo.cs
+D:\VS2017_Projects\ExerciseProject\PeopleApi\bin\Debug\netcoreapp2.0\PeopleApi.pdb
+D:\VS2017_Projects\ExerciseProject\PeopleApi\obj\Debug\netcoreapp2.0\PeopleApi.dll
+D:\VS2017_Projects\ExerciseProject\PeopleApi\obj\Debug\netcoreapp2.0\PeopleApi.pdb

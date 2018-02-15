@@ -1,0 +1,11 @@
+D:\VS2017_Projects\ExerciseProject\ExerciseProject\bin\Debug\netcoreapp2.0\ExerciseProject.deps.json
+D:\VS2017_Projects\ExerciseProject\ExerciseProject\bin\Debug\netcoreapp2.0\ExerciseProject.runtimeconfig.json
+D:\VS2017_Projects\ExerciseProject\ExerciseProject\bin\Debug\netcoreapp2.0\ExerciseProject.runtimeconfig.dev.json
+D:\VS2017_Projects\ExerciseProject\ExerciseProject\bin\Debug\netcoreapp2.0\ExerciseProject.dll
+D:\VS2017_Projects\ExerciseProject\ExerciseProject\bin\Debug\netcoreapp2.0\ExerciseProject.pdb
+D:\VS2017_Projects\ExerciseProject\ExerciseProject\obj\Debug\netcoreapp2.0\ExerciseProject.csprojResolveAssemblyReference.cache
+D:\VS2017_Projects\ExerciseProject\ExerciseProject\obj\Debug\netcoreapp2.0\ExerciseProject.csproj.CoreCompileInputs.cache
+D:\VS2017_Projects\ExerciseProject\ExerciseProject\obj\Debug\netcoreapp2.0\ExerciseProject.AssemblyInfoInputs.cache
+D:\VS2017_Projects\ExerciseProject\ExerciseProject\obj\Debug\netcoreapp2.0\ExerciseProject.AssemblyInfo.cs
+D:\VS2017_Projects\ExerciseProject\ExerciseProject\obj\Debug\netcoreapp2.0\ExerciseProject.dll
+D:\VS2017_Projects\ExerciseProject\ExerciseProject\obj\Debug\netcoreapp2.0\ExerciseProject.pdb
